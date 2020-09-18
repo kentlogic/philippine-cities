@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What city is the capital of the Philippines?",
+    "image": "",
+    "optionOne": "Makati",
+    "optionTwo": "Quezon City",
+    "optionThree": "Manila",
+    "optionFour": "Cebu",
+    "correctAnswer": 3
+  },
+  {
+    "id": 2,
+    "question": "It is the Queen City of the South",
+    "image": "",
+    "optionOne": "Cebu",
+    "optionTwo": "Davao",
+    "optionThree": "Bacolod",
+    "optionFour": "Iloilo",
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "The city of Smiles",
+    "image": "",
+    "optionOne": "Makati",
+    "optionTwo": "Iloilo",
+    "optionThree": "Bacolod",
+    "optionFour": "Puerto Princessa",
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "What is the summer capital of the Philippines",
+    "image": "",
+    "optionOne": "Baguio",
+    "optionTwo": "Manila",
+    "optionThree": "Cebu",
+    "optionFour": "Davao",
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "It is the oldest city in the Philippines",
+    "image": "",
+    "optionOne": "Manila",
+    "optionTwo": "Quezon City",
+    "optionThree": "Cebu",
+    "optionFour": "Iloilo",
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "question": "Also known as the shoe capital of the Philippines",
+    "image": "",
+    "optionOne": "Makati",
+    "optionTwo": "Pasig",
+    "optionThree": "Mandaluyong",
+    "optionFour": "Marikina",
+    "correctAnswer": 4
+  },
+  {
+    "id": 7,
+    "question": "It is referred to as the \"Tiger City of the Philippines",
+    "image": "",
+    "optionOne": "Mandaluyong",
+    "optionTwo": "Makati",
+    "optionThree": "Pasig",
+    "optionFour": "Antipolo",
+    "correctAnswer": 1
+  }
+]
