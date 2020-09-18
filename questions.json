@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "What city is the capital of the Philippines?",
-    "image": "",
+    "image": "https://images.unsplash.com/photo-1555557356-51c5d7a8f4c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     "optionOne": "Makati",
     "optionTwo": "Quezon City",
     "optionThree": "Manila",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "question": "It is the Queen City of the South",
-    "image": "",
+    "image": "https://images.unsplash.com/photo-1505261476952-32e25cbfc755?ixlib=rb-1.2.1&auto=format&fit=crop&w=1085&q=80",
     "optionOne": "Cebu",
     "optionTwo": "Davao",
     "optionThree": "Bacolod",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "question": "What is the summer capital of the Philippines",
-    "image": "",
+    "image": "https://images.unsplash.com/photo-1560420559-05f40a5fa8c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "optionOne": "Baguio",
     "optionTwo": "Manila",
     "optionThree": "Cebu",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "question": "It is the oldest city in the Philippines",
-    "image": "",
+    "image": "https://images.unsplash.com/photo-1580650048988-c4d6f02d509d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     "optionOne": "Manila",
     "optionTwo": "Quezon City",
     "optionThree": "Cebu",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "question": "Also known as the shoe capital of the Philippines",
-    "image": "",
+    "image": "https://1cms-img.imgix.net/Shoes.jpg",
     "optionOne": "Makati",
     "optionTwo": "Pasig",
     "optionThree": "Mandaluyong",
@@ -61,8 +61,8 @@
   },
   {
     "id": 7,
-    "question": "It is referred to as the \"Tiger City of the Philippines",
-    "image": "",
+    "question": "It is also called the \"Tiger City of the Philippines",
+    "image": "https://www.lamudi.com.ph/journal/wp-content/uploads/2019/06/manda.jpg",
     "optionOne": "Mandaluyong",
     "optionTwo": "Makati",
     "optionThree": "Pasig",
